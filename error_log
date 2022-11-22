@@ -1,0 +1,25 @@
+[25-Jun-2022 23:27:50 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:27:55 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:28:00 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:28:01 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:28:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:28:55 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:28:56 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:28:56 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:29:38 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:29:39 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:29:57 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:29:57 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:30:01 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[25-Jun-2022 23:31:11 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home7/laqysutd/public_html/wp-content/themes/blocksy-child/functions.php on line 9
+[16-Sep-2022 19:52:54 UTC] PHP Warning:  Undefined variable $message in /home7/laqysutd/public_html/webmail.php on line 23
+[16-Sep-2022 19:54:58 UTC] PHP Parse error:  syntax error, unexpected variable "$headers" in /home7/laqysutd/public_html/webmail.php on line 14
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "name" in /home7/laqysutd/public_html/webmail.php on line 2
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "agency" in /home7/laqysutd/public_html/webmail.php on line 3
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "tel" in /home7/laqysutd/public_html/webmail.php on line 5
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "artist" in /home7/laqysutd/public_html/webmail.php on line 6
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "date" in /home7/laqysutd/public_html/webmail.php on line 7
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "international" in /home7/laqysutd/public_html/webmail.php on line 8
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "zone" in /home7/laqysutd/public_html/webmail.php on line 9
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "currency" in /home7/laqysutd/public_html/webmail.php on line 10
+[02-Oct-2022 08:26:23 UTC] PHP Warning:  Undefined array key "message" in /home7/laqysutd/public_html/webmail.php on line 13
